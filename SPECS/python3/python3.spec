@@ -1,6 +1,6 @@
 Summary:        A high-level scripting language
 Name:           python3
-Version:        3.7.0
+Version:        3.7.3
 Release:        6%{?dist}
 License:        PSF
 URL:            http://www.python.org/
